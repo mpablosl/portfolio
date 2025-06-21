@@ -20,7 +20,10 @@ Este repositório reúne os projetos e desafios que estou desenvolvendo durante 
 2. **Desafio Sistema Bancário - Python**  
    Desenvolvimento de um sistema bancário simples com operações básicas, visando prática em lógica de programação e estruturas condicionais.
 
-3. **Outros desafios**  
+3. **Desafio Sistema Bancário - Python**  
+   Desenvolvimento do mesmo sistema bancário simples utilizando estrutura de dados (listas, dicionários) e funções.
+
+4. **Outros desafios**  
    - Em andamento     
 ---
 
