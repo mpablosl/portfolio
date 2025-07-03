@@ -23,7 +23,12 @@ Este repositório reúne os projetos e desafios que estou desenvolvendo durante 
 3. **Desafio Sistema Bancário - Python**  
    Desenvolvimento do mesmo sistema bancário simples utilizando estrutura de dados (listas, dicionários) e funções.
 
-4. **Outros desafios**  
+4. **🚴 Sistema de Aluguel de Bicicletas (Projeto em Python)**
+   Este projeto é um sistema de aluguel de bicicletas desenvolvido em Python, com foco em praticar funções, listas, dicionários e lógica de programação.
+
+O sistema funciona em modo terminal e permite o gerenciamento completo de usuários e bicicletas, além do controle de histórico de aluguéis.
+
+5. **Outros desafios**  
    - Em andamento     
 ---
 
